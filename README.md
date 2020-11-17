@@ -1,6 +1,6 @@
 # Pytorch深度學習框架X NVIDIA JetsonNano應用-cDCGAN生成手寫數字
 
-![image](images/result.png)
+![image](images/1090907_cDCGAN.gif)
 
 | 作者 | Chia-Chun, Chang |
 | ---- | ---|
